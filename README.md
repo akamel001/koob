@@ -1,4 +1,4 @@
-book_pred
+Koob
 =========
 
-A prediction on how successful a book is going to be. 
+A project to predict a books success based off its content and authorship. 
